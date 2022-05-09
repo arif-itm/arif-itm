@@ -34,7 +34,8 @@
 
 <img align="center" style="height: 10rem;" src="https://github-readme-stats.vercel.app/api?username=ar-arif&show_icons=true&locale=en" alt="ar-arif" />
 </p>
-
+/+
 <p style="width: 100%;">
 <img align="center" style="width: 50%; margin:0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-arif&theme=default" alt="ar-arif" />
 </p>
++/
