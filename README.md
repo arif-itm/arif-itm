@@ -36,5 +36,5 @@
 </p>
 
 <p>
-<img align="center" style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-arif&theme=default" alt="ar-arif" />
+<img align="center" style="width: 50%; margin:0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-arif&theme=default" alt="ar-arif" />
 </p>
