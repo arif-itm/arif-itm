@@ -30,9 +30,9 @@
 
 
 <p style="display: flex;">
-<img align="left" style="height: 11rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-arif&show_icons=true&locale=en&layout=compact" alt="ar-arif" />
+<img align="left" style="height: 10rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-arif&show_icons=true&locale=en&layout=compact" alt="ar-arif" />
 
-<img align="center" style="height: 11rem;" src="https://github-readme-stats.vercel.app/api?username=ar-arif&show_icons=true&locale=en" alt="ar-arif" />
+<img align="center" style="height: 10rem;" src="https://github-readme-stats.vercel.app/api?username=ar-arif&show_icons=true&locale=en" alt="ar-arif" />
 </p>
 
 <p>
