@@ -29,8 +29,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ar-arif&theme=synthwave-84)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-arif&show_icons=true&locale=en&layout=compact" alt="ar-arif" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-arif&show_icons=true&locale=en" alt="ar-arif" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-arif&theme=default" alt="ar-arif" /></p>
-</div>
+
