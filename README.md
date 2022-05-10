@@ -31,7 +31,7 @@
 <p style="display:flex; justify-content: center;">
 <img align="center" style="padding:0; height:11rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-arif&show_icons=true&locale=en&layout=compact" alt="ar-arif" />
 
-<img align="center" style="padding:0; height:11rem; margin-left: 0.5em;" src="https://github-readme-stats.vercel.app/api?username=ar-arif&show_icons=true&locale=en" alt="ar-arif" />
+<img align="center" style="padding:0; height:11rem; padding-left: 0.5em;" src="https://github-readme-stats.vercel.app/api?username=ar-arif&show_icons=true&locale=en" alt="ar-arif" />
 </p>
 <!---
 <p style="width: 100%;">
