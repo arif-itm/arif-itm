@@ -29,9 +29,9 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ar-arif&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p style="display: flex;justify-content: center;">
-<img align="center" style="margin:auto; width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-arif&show_icons=true&locale=en&layout=compact" alt="ar-arif" />
+<img align="center" style="padding:0; margin:auto; width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-arif&show_icons=true&locale=en&layout=compact" alt="ar-arif" />
 
-<img align="center" style="margin:auto; width:50%;" src="https://github-readme-stats.vercel.app/api?username=ar-arif&show_icons=true&locale=en" alt="ar-arif" />
+<img align="center" style="padding:0; margin:auto; width:50%;" src="https://github-readme-stats.vercel.app/api?username=ar-arif&show_icons=true&locale=en" alt="ar-arif" />
 </p>
 <!---
 <p style="width: 100%;">
