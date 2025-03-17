@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ar-arif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ar-arif" height="30" width="40" /></a>
 <a href="https://fb.com/ar.arif7497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ar.arif7497" height="30" width="40" /></a>
-<a href="https://instagram.com/_ar_arif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ar_arif" height="30" width="40" /></a>
+<a href="https://instagram.com/arif-itm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ar_arif" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCOFfkIOu3Dn9E9mi8Zefo6Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
